@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="lab27_DDS/lab27_DDS.vcxproj" />
+  <Project Path="task/task.vcxproj" />
 </Solution>
